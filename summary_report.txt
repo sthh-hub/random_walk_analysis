@@ -1,0 +1,326 @@
+Report for 8_power_law_degree.json (Walk Type: BFS):
+Number of Nodes Visited: 50
+Average Degree: 1.96
+Max Degree: 2
+Average Clustering Coefficient: 0.0
+Diameter: 49
+Average Shortest Path Length: 17.0
+Number of Triangles: 0
+Graph: 8_power_law_degree
+Walk Type: BFS
+
+Report for 1_random_graph.json (Walk Type: BFS):
+Number of Nodes Visited: 50
+Average Degree: 1.96
+Max Degree: 2
+Average Clustering Coefficient: 0.0
+Diameter: 49
+Average Shortest Path Length: 17.0
+Number of Triangles: 0
+Graph: 1_random_graph
+Walk Type: BFS
+
+Report for 6_community.json (Walk Type: BFS):
+Number of Nodes Visited: 50
+Average Degree: 1.96
+Max Degree: 2
+Average Clustering Coefficient: 0.0
+Diameter: 49
+Average Shortest Path Length: 17.0
+Number of Triangles: 0
+Graph: 6_community
+Walk Type: BFS
+
+Report for 5_star.json (Walk Type: BFS):
+Number of Nodes Visited: 50
+Average Degree: 1.96
+Max Degree: 2
+Average Clustering Coefficient: 0.0
+Diameter: 49
+Average Shortest Path Length: 17.0
+Number of Triangles: 0
+Graph: 5_star
+Walk Type: BFS
+
+Report for 7_scale_free.json (Walk Type: BFS):
+Number of Nodes Visited: 50
+Average Degree: 1.96
+Max Degree: 2
+Average Clustering Coefficient: 0.0
+Diameter: 49
+Average Shortest Path Length: 17.0
+Number of Triangles: 0
+Graph: 7_scale_free
+Walk Type: BFS
+
+Report for 4_isolated_nodes.json (Walk Type: BFS):
+Number of Nodes Visited: 5
+Average Degree: 1.6
+Max Degree: 2
+Average Clustering Coefficient: 0.0
+Diameter: 4
+Average Shortest Path Length: 2.0
+Number of Triangles: 0
+Graph: 4_isolated_nodes
+Walk Type: BFS
+
+Report for 3_low_avg_degree.json (Walk Type: BFS):
+Number of Nodes Visited: 50
+Average Degree: 1.96
+Max Degree: 2
+Average Clustering Coefficient: 0.0
+Diameter: 49
+Average Shortest Path Length: 17.0
+Number of Triangles: 0
+Graph: 3_low_avg_degree
+Walk Type: BFS
+
+Report for 2_high_avg_degree.json (Walk Type: BFS):
+Number of Nodes Visited: 50
+Average Degree: 1.96
+Max Degree: 2
+Average Clustering Coefficient: 0.0
+Diameter: 49
+Average Shortest Path Length: 17.0
+Number of Triangles: 0
+Graph: 2_high_avg_degree
+Walk Type: BFS
+
+Report for 9_cycles.json (Walk Type: BFS):
+Number of Nodes Visited: 50
+Average Degree: 1.96
+Max Degree: 2
+Average Clustering Coefficient: 0.0
+Diameter: 49
+Average Shortest Path Length: 17.0
+Number of Triangles: 0
+Graph: 9_cycles
+Walk Type: BFS
+
+Report for 8_power_law_degree.json (Walk Type: RW):
+Number of Nodes Visited: 30
+Average Degree: 2.4
+Max Degree: 6
+Average Clustering Coefficient: 0.07
+Diameter: 8
+Average Shortest Path Length: 3.74
+Number of Triangles: 1
+Graph: 8_power_law_degree
+Walk Type: RW
+
+Report for 1_random_graph.json (Walk Type: RW):
+Number of Nodes Visited: 35
+Average Degree: 2.29
+Max Degree: 5
+Average Clustering Coefficient: 0.02
+Diameter: 10
+Average Shortest Path Length: 4.69
+Number of Triangles: 1
+Graph: 1_random_graph
+Walk Type: RW
+
+Report for 6_community.json (Walk Type: RW):
+Number of Nodes Visited: 37
+Average Degree: 2.49
+Max Degree: 4
+Average Clustering Coefficient: 0.0
+Diameter: 9
+Average Shortest Path Length: 4.28
+Number of Triangles: 0
+Graph: 6_community
+Walk Type: RW
+
+Report for 5_star.json (Walk Type: RW):
+Number of Nodes Visited: 12
+Average Degree: 1.83
+Max Degree: 4
+Average Clustering Coefficient: 0.0
+Diameter: 4
+Average Shortest Path Length: 2.61
+Number of Triangles: 0
+Graph: 5_star
+Walk Type: RW
+
+Report for 7_scale_free.json (Walk Type: RW):
+Number of Nodes Visited: 30
+Average Degree: 2.27
+Max Degree: 6
+Average Clustering Coefficient: 0.0
+Diameter: 9
+Average Shortest Path Length: 4.33
+Number of Triangles: 0
+Graph: 7_scale_free
+Walk Type: RW
+
+Report for 4_isolated_nodes.json (Walk Type: RW):
+Number of Nodes Visited: 5
+Average Degree: 1.6
+Max Degree: 3
+Average Clustering Coefficient: 0.0
+Diameter: 3
+Average Shortest Path Length: 1.8
+Number of Triangles: 0
+Graph: 4_isolated_nodes
+Walk Type: RW
+
+Report for 3_low_avg_degree.json (Walk Type: RW):
+Number of Nodes Visited: 26
+Average Degree: 1.92
+Max Degree: 4
+Average Clustering Coefficient: 0.0
+Diameter: 11
+Average Shortest Path Length: 5.29
+Number of Triangles: 0
+Graph: 3_low_avg_degree
+Walk Type: RW
+
+Report for 2_high_avg_degree.json (Walk Type: RW):
+Number of Nodes Visited: 39
+Average Degree: 2.41
+Max Degree: 6
+Average Clustering Coefficient: 0.0
+Diameter: 10
+Average Shortest Path Length: 4.43
+Number of Triangles: 0
+Graph: 2_high_avg_degree
+Walk Type: RW
+
+Report for 9_cycles.json (Walk Type: RW):
+Number of Nodes Visited: 36
+Average Degree: 2.39
+Max Degree: 5
+Average Clustering Coefficient: 0.04
+Diameter: 10
+Average Shortest Path Length: 4.35
+Number of Triangles: 1
+Graph: 9_cycles
+Walk Type: RW
+
+Report for 8_power_law_degree.json (Walk Type: RWF):
+Number of Nodes Visited: 30
+Average Degree: 2.47
+Max Degree: 10
+Average Clustering Coefficient: 0.08
+Diameter: 9
+Average Shortest Path Length: 3.66
+Number of Triangles: 2
+Graph: 8_power_law_degree
+Walk Type: RWF
+
+Report for 1_random_graph.json (Walk Type: RWF):
+Number of Nodes Visited: 21
+Average Degree: 2.57
+Max Degree: 13
+Average Clustering Coefficient: 0.13
+Diameter: 5
+Average Shortest Path Length: 2.6
+Number of Triangles: 2
+Graph: 1_random_graph
+Walk Type: RWF
+
+Report for 6_community.json (Walk Type: RWF):
+Number of Nodes Visited: 34
+Average Degree: 2.53
+Max Degree: 17
+Average Clustering Coefficient: 0.14
+Diameter: 13
+Average Shortest Path Length: 4.48
+Number of Triangles: 4
+Graph: 6_community
+Walk Type: RWF
+
+Report for 5_star.json (Walk Type: RWF):
+Number of Nodes Visited: 19
+Average Degree: 2.63
+Max Degree: 11
+Average Clustering Coefficient: 0.14
+Diameter: 6
+Average Shortest Path Length: 2.72
+Number of Triangles: 3
+Graph: 5_star
+Walk Type: RWF
+
+Report for 7_scale_free.json (Walk Type: RWF):
+Number of Nodes Visited: 25
+Average Degree: 2.56
+Max Degree: 17
+Average Clustering Coefficient: 0.08
+Diameter: 6
+Average Shortest Path Length: 2.64
+Number of Triangles: 3
+Graph: 7_scale_free
+Walk Type: RWF
+
+Report for 4_isolated_nodes.json (Walk Type: RWF):
+Number of Nodes Visited: 5
+Average Degree: 2.4
+Max Degree: 6
+Average Clustering Coefficient: 0.43
+Diameter: 2
+Average Shortest Path Length: 1.5
+Number of Triangles: 1
+Graph: 4_isolated_nodes
+Walk Type: RWF
+
+Report for 3_low_avg_degree.json (Walk Type: RWF):
+Number of Nodes Visited: 8
+Average Degree: 2.5
+Max Degree: 5
+Average Clustering Coefficient: 0.29
+Diameter: 5
+Average Shortest Path Length: 2.36
+Number of Triangles: 2
+Graph: 3_low_avg_degree
+Walk Type: RWF
+
+Report for 2_high_avg_degree.json (Walk Type: RWF):
+Number of Nodes Visited: 38
+Average Degree: 2.47
+Max Degree: 12
+Average Clustering Coefficient: 0.09
+Diameter: 9
+Average Shortest Path Length: 4.37
+Number of Triangles: 2
+Graph: 2_high_avg_degree
+Walk Type: RWF
+
+Report for 9_cycles.json (Walk Type: RWF):
+Number of Nodes Visited: 26
+Average Degree: 2.46
+Max Degree: 14
+Average Clustering Coefficient: 0.18
+Diameter: 6
+Average Shortest Path Length: 2.9
+Number of Triangles: 3
+Graph: 9_cycles
+Walk Type: RWF
+
+Summary Table:
+Graph              | Walk Type | Number of Nodes Visited | Average Degree | Max Degree | Average Clustering Coefficient | Diameter | Average Shortest Path Length | Number of Triangles
+8_power_law_degree | BFS       | 50                      | 1.96           | 2          | 0.0                            | 49       | 17.0                         | 0                  
+1_random_graph     | BFS       | 50                      | 1.96           | 2          | 0.0                            | 49       | 17.0                         | 0                  
+6_community        | BFS       | 50                      | 1.96           | 2          | 0.0                            | 49       | 17.0                         | 0                  
+5_star             | BFS       | 50                      | 1.96           | 2          | 0.0                            | 49       | 17.0                         | 0                  
+7_scale_free       | BFS       | 50                      | 1.96           | 2          | 0.0                            | 49       | 17.0                         | 0                  
+4_isolated_nodes   | BFS       | 5                       | 1.6            | 2          | 0.0                            | 4        | 2.0                          | 0                  
+3_low_avg_degree   | BFS       | 50                      | 1.96           | 2          | 0.0                            | 49       | 17.0                         | 0                  
+2_high_avg_degree  | BFS       | 50                      | 1.96           | 2          | 0.0                            | 49       | 17.0                         | 0                  
+9_cycles           | BFS       | 50                      | 1.96           | 2          | 0.0                            | 49       | 17.0                         | 0                  
+8_power_law_degree | RW        | 30                      | 2.4            | 6          | 0.07                           | 8        | 3.74                         | 1                  
+1_random_graph     | RW        | 35                      | 2.29           | 5          | 0.02                           | 10       | 4.69                         | 1                  
+6_community        | RW        | 37                      | 2.49           | 4          | 0.0                            | 9        | 4.28                         | 0                  
+5_star             | RW        | 12                      | 1.83           | 4          | 0.0                            | 4        | 2.61                         | 0                  
+7_scale_free       | RW        | 30                      | 2.27           | 6          | 0.0                            | 9        | 4.33                         | 0                  
+4_isolated_nodes   | RW        | 5                       | 1.6            | 3          | 0.0                            | 3        | 1.8                          | 0                  
+3_low_avg_degree   | RW        | 26                      | 1.92           | 4          | 0.0                            | 11       | 5.29                         | 0                  
+2_high_avg_degree  | RW        | 39                      | 2.41           | 6          | 0.0                            | 10       | 4.43                         | 0                  
+9_cycles           | RW        | 36                      | 2.39           | 5          | 0.04                           | 10       | 4.35                         | 1                  
+8_power_law_degree | RWF       | 30                      | 2.47           | 10         | 0.08                           | 9        | 3.66                         | 2                  
+1_random_graph     | RWF       | 21                      | 2.57           | 13         | 0.13                           | 5        | 2.6                          | 2                  
+6_community        | RWF       | 34                      | 2.53           | 17         | 0.14                           | 13       | 4.48                         | 4                  
+5_star             | RWF       | 19                      | 2.63           | 11         | 0.14                           | 6        | 2.72                         | 3                  
+7_scale_free       | RWF       | 25                      | 2.56           | 17         | 0.08                           | 6        | 2.64                         | 3                  
+4_isolated_nodes   | RWF       | 5                       | 2.4            | 6          | 0.43                           | 2        | 1.5                          | 1                  
+3_low_avg_degree   | RWF       | 8                       | 2.5            | 5          | 0.29                           | 5        | 2.36                         | 2                  
+2_high_avg_degree  | RWF       | 38                      | 2.47           | 12         | 0.09                           | 9        | 4.37                         | 2                  
+9_cycles           | RWF       | 26                      | 2.46           | 14         | 0.18                           | 6        | 2.9                          | 3                  

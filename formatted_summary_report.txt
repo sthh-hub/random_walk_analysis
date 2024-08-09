@@ -1,0 +1,118 @@
+Graph              | Metric                         | RW                   | RWF                  | BFS                 
+8_power_law_degree | Number of Nodes Visited        | 32                   | 22                   | 34                  
+8_power_law_degree | Sampling Path Length           | 32                   | 22                   | 34                  
+8_power_law_degree | Farthest Distance              | 4                    | 4                    | 4                   
+8_power_law_degree | Average Degree                 | 2.375                | 2.6363636363636362   | 2.588235294117647   
+8_power_law_degree | Max Degree                     | 7                    | 11                   | 9                   
+8_power_law_degree | Min Degree                     | 1                    | 1                    | 1                   
+8_power_law_degree | Number of Connected Components | 1                    | 1                    | 1                   
+8_power_law_degree | Size of Largest Component      | 32                   | 22                   | 34                  
+8_power_law_degree | Average Clustering Coefficient | 0.043154761904761904 | 0.16742424242424242  | 0.11661998132586368 
+8_power_law_degree | Global Clustering Coefficient  | 0.0375               | 0.12162162162162163  | 0.10344827586206896 
+8_power_law_degree | Diameter                       | 9                    | 7                    | 7                   
+8_power_law_degree | Average Shortest Path Length   | 3.8528225806451615   | 2.9913419913419914   | 3.393939393939394   
+8_power_law_degree | Number of Triangles            | 1                    | 3                    | 4                   
+1_random_graph     | Number of Nodes Visited        | 19                   | 18                   | 17                  
+1_random_graph     | Sampling Path Length           | 19                   | 18                   | 17                  
+1_random_graph     | Farthest Distance              | 3                    | 3                    | 3                   
+1_random_graph     | Average Degree                 | 3.0526315789473686   | 3.3333333333333335   | 2.9411764705882355  
+1_random_graph     | Max Degree                     | 7                    | 9                    | 8                   
+1_random_graph     | Min Degree                     | 1                    | 1                    | 1                   
+1_random_graph     | Number of Connected Components | 1                    | 1                    | 1                   
+1_random_graph     | Size of Largest Component      | 19                   | 18                   | 17                  
+1_random_graph     | Average Clustering Coefficient | 0.19799498746867167  | 0.3357583774250441   | 0.1022408963585434  
+1_random_graph     | Global Clustering Coefficient  | 0.14634146341463414  | 0.30275229357798167  | 0.12857142857142856 
+1_random_graph     | Diameter                       | 7                    | 6                    | 5                   
+1_random_graph     | Average Shortest Path Length   | 2.8128654970760234   | 2.411764705882353    | 2.426470588235294   
+1_random_graph     | Number of Triangles            | 4                    | 11                   | 3                   
+6_community        | Number of Nodes Visited        | 40                   | 36                   | 39                  
+6_community        | Sampling Path Length           | 40                   | 36                   | 39                  
+6_community        | Farthest Distance              | 2                    | 2                    | 2                   
+6_community        | Average Degree                 | 2.4                  | 2.4444444444444446   | 2.41025641025641    
+6_community        | Max Degree                     | 6                    | 8                    | 7                   
+6_community        | Min Degree                     | 1                    | 1                    | 1                   
+6_community        | Number of Connected Components | 1                    | 1                    | 1                   
+6_community        | Size of Largest Component      | 40                   | 36                   | 39                  
+6_community        | Average Clustering Coefficient | 0.11583333333333332  | 0.05654761904761904  | 0.055555555555555566
+6_community        | Global Clustering Coefficient  | 0.10714285714285714  | 0.03296703296703297  | 0.03488372093023256 
+6_community        | Diameter                       | 12                   | 8                    | 9                   
+6_community        | Average Shortest Path Length   | 4.9192307692307695   | 3.8142857142857145   | 4.377867746288799   
+6_community        | Number of Triangles            | 3                    | 1                    | 1                   
+5_star             | Number of Nodes Visited        | 18                   | 14                   | 15                  
+5_star             | Sampling Path Length           | 18                   | 14                   | 15                  
+5_star             | Farthest Distance              | 4                    | 4                    | 4                   
+5_star             | Average Degree                 | 1.8888888888888888   | 2.0                  | 1.8666666666666667  
+5_star             | Max Degree                     | 4                    | 4                    | 4                   
+5_star             | Min Degree                     | 1                    | 1                    | 1                   
+5_star             | Number of Connected Components | 1                    | 1                    | 1                   
+5_star             | Size of Largest Component      | 18                   | 14                   | 15                  
+5_star             | Average Clustering Coefficient | 0.0                  | 0.0                  | 0.0                 
+5_star             | Global Clustering Coefficient  | 0                    | 0                    | 0                   
+5_star             | Diameter                       | 8                    | 8                    | 6                   
+5_star             | Average Shortest Path Length   | 4.2026143790849675   | 3.7472527472527473   | 3.142857142857143   
+5_star             | Number of Triangles            | 0                    | 0                    | 0                   
+7_scale_free       | Number of Nodes Visited        | 29                   | 27                   | 27                  
+7_scale_free       | Sampling Path Length           | 29                   | 27                   | 27                  
+7_scale_free       | Farthest Distance              | 3                    | 3                    | 3                   
+7_scale_free       | Average Degree                 | 2.413793103448276    | 2.2222222222222223   | 2.2222222222222223  
+7_scale_free       | Max Degree                     | 8                    | 13                   | 8                   
+7_scale_free       | Min Degree                     | 1                    | 1                    | 1                   
+7_scale_free       | Number of Connected Components | 1                    | 1                    | 1                   
+7_scale_free       | Size of Largest Component      | 29                   | 27                   | 27                  
+7_scale_free       | Average Clustering Coefficient | 0.0                  | 0.04388327721661055  | 0.0                 
+7_scale_free       | Global Clustering Coefficient  | 0                    | 0.036585365853658534 | 0                   
+7_scale_free       | Diameter                       | 7                    | 8                    | 7                   
+7_scale_free       | Average Shortest Path Length   | 3.357142857142857    | 3.4017094017094016   | 3.421652421652422   
+7_scale_free       | Number of Triangles            | 0                    | 1                    | 0                   
+4_isolated_nodes   | Number of Nodes Visited        | 6                    | 5                    | 6                   
+4_isolated_nodes   | Sampling Path Length           | 6                    | 5                    | 6                   
+4_isolated_nodes   | Farthest Distance              | 4                    | 4                    | 4                   
+4_isolated_nodes   | Average Degree                 | 1.6666666666666667   | 2.8                  | 1.6666666666666667  
+4_isolated_nodes   | Max Degree                     | 2                    | 6                    | 2                   
+4_isolated_nodes   | Min Degree                     | 1                    | 1                    | 1                   
+4_isolated_nodes   | Number of Connected Components | 1                    | 1                    | 1                   
+4_isolated_nodes   | Size of Largest Component      | 6                    | 5                    | 6                   
+4_isolated_nodes   | Average Clustering Coefficient | 0.0                  | 0.5999999999999999   | 0.0                 
+4_isolated_nodes   | Global Clustering Coefficient  | 0                    | 0.5454545454545454   | 0                   
+4_isolated_nodes   | Diameter                       | 5                    | 2                    | 5                   
+4_isolated_nodes   | Average Shortest Path Length   | 2.3333333333333335   | 1.4                  | 2.3333333333333335  
+4_isolated_nodes   | Number of Triangles            | 0                    | 2                    | 0                   
+3_low_avg_degree   | Number of Nodes Visited        | 21                   | 21                   | 17                  
+3_low_avg_degree   | Sampling Path Length           | 21                   | 21                   | 17                  
+3_low_avg_degree   | Farthest Distance              | 9                    | 9                    | 9                   
+3_low_avg_degree   | Average Degree                 | 1.9047619047619047   | 2.2857142857142856   | 1.8823529411764706  
+3_low_avg_degree   | Max Degree                     | 3                    | 7                    | 3                   
+3_low_avg_degree   | Min Degree                     | 1                    | 1                    | 1                   
+3_low_avg_degree   | Number of Connected Components | 1                    | 1                    | 1                   
+3_low_avg_degree   | Size of Largest Component      | 21                   | 21                   | 17                  
+3_low_avg_degree   | Average Clustering Coefficient | 0.0                  | 0.0                  | 0.0                 
+3_low_avg_degree   | Global Clustering Coefficient  | 0                    | 0                    | 0                   
+3_low_avg_degree   | Diameter                       | 18                   | 8                    | 14                  
+3_low_avg_degree   | Average Shortest Path Length   | 6.514285714285714    | 3.619047619047619    | 5.544117647058823   
+3_low_avg_degree   | Number of Triangles            | 0                    | 0                    | 0                   
+2_high_avg_degree  | Number of Nodes Visited        | 40                   | 32                   | 37                  
+2_high_avg_degree  | Sampling Path Length           | 40                   | 32                   | 37                  
+2_high_avg_degree  | Farthest Distance              | 2                    | 2                    | 2                   
+2_high_avg_degree  | Average Degree                 | 2.3                  | 2.8125               | 2.5405405405405403  
+2_high_avg_degree  | Max Degree                     | 5                    | 16                   | 6                   
+2_high_avg_degree  | Min Degree                     | 1                    | 1                    | 1                   
+2_high_avg_degree  | Number of Connected Components | 1                    | 1                    | 1                   
+2_high_avg_degree  | Size of Largest Component      | 40                   | 32                   | 37                  
+2_high_avg_degree  | Average Clustering Coefficient | 0.0                  | 0.08957188644688645  | 0.09189189189189188 
+2_high_avg_degree  | Global Clustering Coefficient  | 0                    | 0.057692307692307696 | 0.061224489795918366
+2_high_avg_degree  | Diameter                       | 13                   | 6                    | 11                  
+2_high_avg_degree  | Average Shortest Path Length   | 5.0576923076923075   | 2.909274193548387    | 4.642642642642643   
+2_high_avg_degree  | Number of Triangles            | 0                    | 3                    | 2                   
+9_cycles           | Number of Nodes Visited        | 35                   | 25                   | 33                  
+9_cycles           | Sampling Path Length           | 35                   | 25                   | 33                  
+9_cycles           | Farthest Distance              | 3                    | 3                    | 3                   
+9_cycles           | Average Degree                 | 2.342857142857143    | 2.8                  | 2.5454545454545454  
+9_cycles           | Max Degree                     | 5                    | 14                   | 7                   
+9_cycles           | Min Degree                     | 1                    | 1                    | 1                   
+9_cycles           | Number of Connected Components | 1                    | 1                    | 1                   
+9_cycles           | Size of Largest Component      | 35                   | 25                   | 33                  
+9_cycles           | Average Clustering Coefficient | 0.10285714285714286  | 0.19054545454545455  | 0.0                 
+9_cycles           | Global Clustering Coefficient  | 0.08695652173913043  | 0.0782608695652174   | 0                   
+9_cycles           | Diameter                       | 12                   | 6                    | 7                   
+9_cycles           | Average Shortest Path Length   | 5.035294117647059    | 2.796666666666667    | 3.606060606060606   
+9_cycles           | Number of Triangles            | 2                    | 3                    | 0                   

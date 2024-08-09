@@ -1,0 +1,64 @@
+Graph,Indicator,RW,RWF,BFS
+8_power_law_degree,Number of Nodes Visited,30,30,50
+8_power_law_degree,Average Degree,2.4,2.47,1.96
+8_power_law_degree,Max Degree,6,10,2
+8_power_law_degree,Average Clustering Coefficient,0.07,0.08,0.0
+8_power_law_degree,Diameter,8,9,49
+8_power_law_degree,Average Shortest Path Length,3.74,3.66,17.0
+8_power_law_degree,Number of Triangles,1,2,0
+1_random_graph,Number of Nodes Visited,35,21,50
+1_random_graph,Average Degree,2.29,2.57,1.96
+1_random_graph,Max Degree,5,13,2
+1_random_graph,Average Clustering Coefficient,0.02,0.13,0.0
+1_random_graph,Diameter,10,5,49
+1_random_graph,Average Shortest Path Length,4.69,2.6,17.0
+1_random_graph,Number of Triangles,1,2,0
+6_community,Number of Nodes Visited,37,34,50
+6_community,Average Degree,2.49,2.53,1.96
+6_community,Max Degree,4,17,2
+6_community,Average Clustering Coefficient,0.0,0.14,0.0
+6_community,Diameter,9,13,49
+6_community,Average Shortest Path Length,4.28,4.48,17.0
+6_community,Number of Triangles,0,4,0
+5_star,Number of Nodes Visited,12,19,50
+5_star,Average Degree,1.83,2.63,1.96
+5_star,Max Degree,4,11,2
+5_star,Average Clustering Coefficient,0.0,0.14,0.0
+5_star,Diameter,4,6,49
+5_star,Average Shortest Path Length,2.61,2.72,17.0
+5_star,Number of Triangles,0,3,0
+7_scale_free,Number of Nodes Visited,30,25,50
+7_scale_free,Average Degree,2.27,2.56,1.96
+7_scale_free,Max Degree,6,17,2
+7_scale_free,Average Clustering Coefficient,0.0,0.08,0.0
+7_scale_free,Diameter,9,6,49
+7_scale_free,Average Shortest Path Length,4.33,2.64,17.0
+7_scale_free,Number of Triangles,0,3,0
+4_isolated_nodes,Number of Nodes Visited,5,5,5
+4_isolated_nodes,Average Degree,1.6,2.4,1.6
+4_isolated_nodes,Max Degree,3,6,2
+4_isolated_nodes,Average Clustering Coefficient,0.0,0.43,0.0
+4_isolated_nodes,Diameter,3,2,4
+4_isolated_nodes,Average Shortest Path Length,1.8,1.5,2.0
+4_isolated_nodes,Number of Triangles,0,1,0
+3_low_avg_degree,Number of Nodes Visited,26,8,50
+3_low_avg_degree,Average Degree,1.92,2.5,1.96
+3_low_avg_degree,Max Degree,4,5,2
+3_low_avg_degree,Average Clustering Coefficient,0.0,0.29,0.0
+3_low_avg_degree,Diameter,11,5,49
+3_low_avg_degree,Average Shortest Path Length,5.29,2.36,17.0
+3_low_avg_degree,Number of Triangles,0,2,0
+2_high_avg_degree,Number of Nodes Visited,39,38,50
+2_high_avg_degree,Average Degree,2.41,2.47,1.96
+2_high_avg_degree,Max Degree,6,12,2
+2_high_avg_degree,Average Clustering Coefficient,0.0,0.09,0.0
+2_high_avg_degree,Diameter,10,9,49
+2_high_avg_degree,Average Shortest Path Length,4.43,4.37,17.0
+2_high_avg_degree,Number of Triangles,0,2,0
+9_cycles,Number of Nodes Visited,36,26,50
+9_cycles,Average Degree,2.39,2.46,1.96
+9_cycles,Max Degree,5,14,2
+9_cycles,Average Clustering Coefficient,0.04,0.18,0.0
+9_cycles,Diameter,10,6,49
+9_cycles,Average Shortest Path Length,4.35,2.9,17.0
+9_cycles,Number of Triangles,1,3,0
