@@ -86,6 +86,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Special thanks to Prof. Aanchan for their guidance and support throughout this project.
 
----
-
-This `README.md` gives a clear overview of the project, installation instructions, and how to use the provided scripts. Make sure to adjust any specific paths, names, or instructions to fit your exact project setup.
