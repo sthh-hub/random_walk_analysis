@@ -1,12 +1,13 @@
-Certainly! Here is a `README.md` file based on the project structure you provided:
-
----
-
 # Random Walk with Flyback Probability
 
 ## Project Overview
 
 This project implements a **Random Walk with Flyback Probability** algorithm, designed to improve traditional random walks by introducing a probability of returning to the starting node. This enhancement helps address some limitations of the traditional random walk, such as getting trapped in loops or biased sampling toward high-degree nodes. The goal is to achieve more balanced and representative sampling in large graphs. The project also compares the performance of this method with other algorithms, such as the traditional Random Walk (RW) and Breadth-First Search (BFS).
+
+## Demo
+<img width="675" alt="image" src="https://github.com/user-attachments/assets/202cd03f-8ea0-4e2f-9533-1ebdc61c60a8">
+
+
 
 ## Project Structure
 
